@@ -1,0 +1,4 @@
+diff a/file.txt b/file.txt	(rejected hunks)
+@@ -0,0 +1 @@
++hi my first line
+\ No newline at end of file
